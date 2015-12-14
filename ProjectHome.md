@@ -1,0 +1,1 @@
+运行在本地操作系统或独立recursive server服务器上的resolver，优先使用dnssec响应结果反馈给应用查询
